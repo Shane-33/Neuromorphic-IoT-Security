@@ -1,0 +1,31 @@
+{
+    "Name": "EEG data offline and online during motor imagery for standing and sitting",
+    "ReferencesAndLinks": [
+        "Triana-Guzman N, Orjuela-Cañon AD, Jutinico AL, Mendoza-Montoya O and Antelis JM (2022) Decoding EEG rhythms offline and online during motor imagery for standing and sitting based on a brain-computer interface. Front. Neuroinform. 16:961089. https://doi.org/10.3389/fninf.2022.961089"
+    ],
+    "BIDSVersion": "1.8.0",
+    "HEDVersion": "8.1.0",
+    "License": "CC0",
+    "Authors": [
+        "Nayid Triana-Guzman",
+        "Alvaro D Orjuela-Cañon",
+        "Andres L Jutinico",
+        "Omar Mendoza-Montoya",
+        "Javier M Antelis"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds005342.v1.0.3",
+    "HowToAcknowledge": "Triana-Guzman N, Orjuela-Cañon AD, Jutinico AL, Mendoza-Montoya O and Antelis JM (2024). EEG data offline and online during motor imagery for standing and sitting. OpenNeuro Dataset ds005342. doi: doi:10.18112/openneuro.ds005342.v1.0.3",
+    "GeneratedBy": [
+        {
+            "Name": "bids-matlab-tools",
+            "Version": "8.0"
+        }
+    ],
+    "Acknowledgements": "We would like to thank the Ministerio de Ciencia, Tecnología e Innovación of Colombia-Minciencias/Colciencias, Universidad Antonio Nariño (UAN), Universidad del Rosario, and Tecnologico de Monterrey for all their support in the development of this dataset",
+    "Funding": [
+        "This research was funded by Ministerio de Ciencia, Tecnología e Innovación of Colombia-Minciencias/Colciencias, contract 594-2019, project 80740-594-2019, and in part by the University of Illinois Chicago and Tecnologico de Monterrey (UIC-TEC) Seed funding Program 2021-2022"
+    ],
+    "EthicsApprovals": [
+        "The experimental protocol was approved by the ethics committee of the Universidad Antonio Nariño"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+  "InstitutionAddress": "Carrera 3 Este # 47 A - 15, Sede Circunvalar, Bogotá, Colombia",
+  "InstitutionName": "Universidad Antonio Nariño",
+  "InstitutionalDepartmentName": "Doctorado en Ciencia Aplicada",
+  "TaskName": "sitstand",
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": {
+    "FilterDescription": {
+      "Description": "Bandpass filter using a 6th-order Butterworth filter with cutoff frequencies from 0.01 Hz to 60 Hz"
+    }
+  },
+  "ManufacturersModelName": "g.Nautilus PRO",
+  "EEGPlacementScheme": "10-20",
+  "EEGReference": "right mastoid (M2)",
+  "EEGGround": "AFz channel",
+  "Manufacturer": "g.tec",
+  "EEGChannelCount": 17,
+  "Instructions": "First, a cross symbol was displayed on the TV screen and the participant was instructed to remain relaxed, motionless, and focused while looking at the symbol. Second, a figure appeared on the TV screen that the participant had to observe and then perform an experimental task. Third, the participant was instructed to act as the figure in order to perform the experimental task. For example, the figure could be sitting motionless while actively imagining the sit-to-stand movement, sitting motionless without imagining the sit-to-stand movement, standing motionless while actively imagining the stand-to-sit movement, or standing motionless without imagining the stand-to-sit movement. Finally, the text ´Descanso´ (the Spanish word for ´rest´) appeared on the TV screen, instructing the participant to rest from the experimental task, blink, or move the head and body as needed.",
+  "TaskDescription": "The temporal sequence task of a trial performed by each participant consisted of four steps. As a first step (fixation), a cross symbol appeared on the TV screen for 4 s during which the participant was asked to avoid any body movement or effort and to stay focused while looking at the symbol. In the second step (action observation), a figure appeared on the TV screen for 3 s, which the participant had to observe and perform one experimental task subsequently in the third step. In the third step (imagining), the participant had to visualize the action indicated by the figure shown in the second step and perform one experimental task for 4 s in response to the figure. For instance, the task could be sitting motionless while actively imagining the sit-to-stand movement (labeled as MotorImageryA), sitting motionless without imagining the sit-to-stand movement (labeled as IdleStateA), standing motionless while actively imagining the stand-to-sit movement (labeled as MotorImageryB), or standing motionless without imagining the stand-to-sit movement (labeled as IdleStateB). Finally, in the fourth step of the sequence (resting), the text ´Descanso´ (the Spanish word for ´Rest´) appeared on the TV screen for 4 s, instructing the participant to rest from the experimental task, blink, or move the head and body if necessary. The difference between the offline and online timelines was in step 3. In the third step of the online timeline, the participant performed one experimental task in response to the figure shown in step 2, and the BCI attempted to detect this task in real time for 3-15 s at the same time that provided feedback.",
+  "RecordingType": "continuous",
+  "RecordingDuration": 3704.16,
+  "SamplingFrequency": 250
+}

@@ -1,0 +1,33 @@
+{
+  "gender": {
+    "Description": "sex of the participant",
+    "Levels": {
+      "M": "biological male",
+      "F": "biological female"
+    }
+  },
+  "participant_id": {
+    "LongName": "participant identifier",
+    "Description": "unique participant label"
+  },
+  "age": {
+    "Description": "age of the participant",
+    "Units": "years"
+  },
+  "handedness": {
+    "Description": "dominant hand of the participant",
+    "Levels": {
+      "right_handed": "righty",
+      "left_handed": "lefty"
+    }
+  },
+  "major": {
+    "Description": "undergraduate participant",
+    "Levels": {
+      "nursing": "undergraduate student majoring in nursing",
+      "medicine": "undergraduate student majoring in medicine",
+      "industrial_engineering": "undergraduate student majoring in industrial engineering",
+      "industrial_automation": "undergraduate student majoring in industrial automation"
+    }
+  }
+}

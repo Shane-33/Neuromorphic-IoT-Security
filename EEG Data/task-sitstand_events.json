@@ -1,0 +1,35 @@
+{
+  "onset": {
+    "LongName": "event onset",
+    "Description": "onset (in seconds) of the event measured from the beginning of the acquisition of the first volume in the corresponding task imaging data file",
+    "Units": "second"
+  },
+  "duration": {
+    "LongName": "event duration",
+    "Description": "duration of the event (measured from onset) in seconds",
+    "Units": "second"
+  },
+  "sample": {
+    "LongName": "event sample",
+    "Description": "onset of the event according to the sampling scheme of the recorded modality (i.e., referring to the raw data file that the events.tsv file accompanies)",
+    "Units": "event sample starting at 0 (Matlab convention starting at 1)"
+  },
+  "value": {
+    "LongName": "event marker",
+    "Description": "marker value associated with the event",
+    "Levels": {
+      "x1": "MotorImageryA",
+      "x2": "IdleStateA",
+      "x3": "MotorImageryB",
+      "x4": "IdleStateB",
+      "x101": "MotorImageryA_detected",
+      "x102": "IdleStateA_detected",
+      "x103": "MotorImageryB_detected",
+      "x104": "IdleStateB_detected",
+      "x200": "Resting",
+      "x201": "Fixation",
+      "x202": "Action_observation",
+      "x203": "Imagining"
+    }
+  }
+}
