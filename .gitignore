@@ -172,3 +172,4 @@ cython_debug/
 *.npy
 *.csv
 *.log
+.DS_Store
